@@ -1,0 +1,5 @@
+/home/user/kssseniya/workspace/projects/Lab03/hello_world_application/build/CMakeFiles/formatter_lib.dir
+/home/user/kssseniya/workspace/projects/Lab03/hello_world_application/build/CMakeFiles/formatter_ex_lib.dir
+/home/user/kssseniya/workspace/projects/Lab03/hello_world_application/build/CMakeFiles/hello_world.dir
+/home/user/kssseniya/workspace/projects/Lab03/hello_world_application/build/CMakeFiles/edit_cache.dir
+/home/user/kssseniya/workspace/projects/Lab03/hello_world_application/build/CMakeFiles/rebuild_cache.dir
